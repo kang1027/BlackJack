@@ -1,3 +1,3 @@
-# Gikkal
+# Gikkal in SMU
 
-test
+Cli-based poker game
